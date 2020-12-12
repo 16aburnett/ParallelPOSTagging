@@ -13,7 +13,7 @@ Assignment: Final Project Source Code
 
 driver.cpp          - driver file that uses the parts of speech implementation
 parts_of_speech.hpp - implementation for determining parts of speech
-Timer.hpp           - used for timings
+Timer.hpp           - used for timings (created by Dr. Zoppetti)
 
 war_and_peace.txt   - full text of War and Peace, used for testing (~100,000 words)
 input10k.txt        - sample text with 10,000 words
