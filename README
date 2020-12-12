@@ -1,0 +1,21 @@
+Name:       Amy Burnett
+Course:     CSCI 476 - Parallel Programming
+Assignment: Final Project Source Code
+
+=== Usage ==============================================================================
+
+   make
+        - Compiles driver program
+   ./driver <input_file> <num_threads>
+        - Runs the driver program with the given input file and threads
+
+=== Files ==============================================================================
+
+driver.cpp          - driver file that uses the parts of speech implementation
+parts_of_speech.hpp - implementation for determining parts of speech
+Timer.hpp           - used for timings
+
+war_and_peace.txt   - full text of War and Peace, used for testing (~100,000 words)
+input10k.txt        - sample text with 10,000 words
+
+dictionary.txt      - sample dictionary that pairs words with parts of speech classifications
